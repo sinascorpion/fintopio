@@ -40,7 +40,7 @@ The `bearers.json` file should be an array of strings, each string being a beare
 
 ### How to get your Bearer Token
 
-1. Open the Fintopio Telegram Bot: [JOIN HERE](https://fintop.io/2wY1cci2Ed)
+1. Open the Fintopio Telegram Bot with chrome desktop: [JOIN HERE](https://fintop.io/2wY1cci2Ed)
 2. Right-click anywhere in the bot and select **Inspect** to open the browser's developer tools.
 3. Navigate to the **Console** tab.
 4. Paste the following code in the console:
